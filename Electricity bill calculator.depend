@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513073113 source:f:\c projects\electricity bill calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HIGHLIGHT.h"
+
